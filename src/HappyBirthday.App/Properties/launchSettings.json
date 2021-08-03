@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HappyBirthday.App": {
+      "commandName": "Project",
+      "commandLineArgs": "Barry"
+    }
+  }
+}
