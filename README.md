@@ -1,10 +1,10 @@
 # HappyBirthdayConsole
 
-Used to get the happy birthday sone for a given name.
+Used to get the happy birthday song for a given name.
 
 ## src
 ### HappyBirthday.App
-Main console app with song genertor application and consol facade
+Main console app with song genertor application and console facade
 
 ## tests
 ### HappyBirthday.Tests
